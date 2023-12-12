@@ -1,16 +1,16 @@
 <p>
-    <a href="https://dynamiclayers.de" >
+    <a href="https://dynamiclayer.io" >
       <img alt="Dynamic Layer - Swift and Figma components" width="100%" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e1fec0ce6a25b81eb1884_swift-github-read-me.jpg">
     </a>
 </p>
 
 <b> Dynamic Layer is the biggest Components library for Figma, Swift, Compose and React Native. This file uncludes 7 mobile optimized reusable UI components and many Design Tokens for Swift and Figma. The Full Version includes more than 20+ components. </b>
 
-<b> [Download the full free Package today!](https://dynamiclayers.de/) </b>
+<b> [Download the full free Package today!](https://dynamiclayer.io/) </b>
 
-With Dynamic Layers you get a Figma, Swift, Compose and React native file for your work. It optimizes collaboration between designers and developers. Designers use pre-built components for their designs in Figma and developers use the same components through copy and paste in their code. This makes the entire process of creating an app from start to finish 10x faster.
+With Dynamic Layer you get a Figma, Swift, Compose and React native file for your work. It optimizes collaboration between designers and developers. Designers use pre-built components for their designs in Figma and developers use the same components through copy and paste in their code. This makes the entire process of creating an app from start to finish 10x faster.
 
-Find out more at: [dynamiclayers.de](https://dynamiclayers.de/)
+Find out more at: [dynamiclayers.de](https://dynamiclayer.io/)
 
 
 
@@ -30,7 +30,7 @@ Find out more at: [dynamiclayers.de](https://dynamiclayers.de/)
 
 If you want to know how to best use the files, you can watch our YouTube video. There we will explain to you step by step what you have to do.
 
-🎥 [Check out our YouTube channel](https://dynamiclayers.de/).
+🎥 [Check out our YouTube channel](https://dynamiclayer.io/).
 
 
 ## Components
@@ -45,17 +45,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/button">
+        <a href="https://www.dynamiclayer.io/docs/button">
             <img alt="Dynamic Layer Button" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e24aee049ebcdeb49603b_read-me-button.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/icon-button">
+        <a href="https://www.dynamiclayer.io/docs/icon-button">
             <img alt="Dynamic Layer Icon Button" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3f84e639bdcebe7221_read-me-icon-button.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/top-navigation">
+        <a href="https://www.dynamiclayer.io/docs/top-navigation">
             <img alt="Dynamic Layer Top Navigation" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d52686512195a3ef68f_read-me-top-navigation.jpg">
         </a>
     </td>
@@ -67,17 +67,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/input-field">
+        <a href="https://www.dynamiclayer.io/docs/input-field">
             <img alt="Dynamic Layer Input Field" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3ff445d49e39e2323f_read-me-input-field.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/bottom-navigation">
+        <a href="https://www.dynamiclayer.io/docs/bottom-navigation">
             <img alt="Dynamic Layer Bottom Navigation" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3d63b1a7f4751e172c_read-me-bottom-navigation.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/avatar">
+        <a href="https://www.dynamiclayer.io/docs/components/avatar">
             <img alt="Dynamic Layer Avatar" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3d5cecc072c46ef7e1_read-me-avatar.jpg">
         </a>
     </td>
@@ -89,17 +89,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/notification-badge">
+        <a href="https://www.dynamiclayer.io/docs/notification-badge">
             <img alt="Dynamic Layer Notification Badge" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d52b6b0c83d5334a443_read-me-notification-badge.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/notification">
+        <a href="https://www.dynamiclayer.io/docs/notification">
             <img alt="Dynamic Layer Notification" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d51e7b9c20e44a62c20_read-me-notification.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/message">
+        <a href="https://www.dynamiclayer.io/docs/message">
             <img alt="Dynamic Layer Message" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d512f4283829c912cef_read-me-message.jpg">
         </a>
     </td>
@@ -111,17 +111,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/menu">
+        <a href="https://www.dynamiclayer.io/docs/menu">
             <img alt="Dynamic Layer Menu" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3f6960520272b1bc4a_read-me-menu.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/line-item">
+        <a href="https://www.dynamiclayer.io/docs/line-item">
             <img alt="Dynamic Layer Line Item" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3fd18209ffb43c8e0f_read-me-line-item.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/page-indicator">
+        <a href="https://www.dynamiclayer.io/docs/page-indicator">
             <img alt="Dynamic Layer Page Indicator" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d513c6b93c7f8f44872_read-me-page-indicator.jpg">
         </a>
     </td>
@@ -133,17 +133,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/badge">
+        <a href="https://www.dynamiclayer.io/docs/badge">
             <img alt="Dynamic Layer Badge" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3ded3e6ec01c0d9534_read-me-badge.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/bottom-sheet">
+        <a href="https://www.dynamiclayer.io/docs/bottom-sheet">
             <img alt="Dynamic Layer Bottom Sheet" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3d94c2b431db70c207_read-me-bottom-sheet.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/chip">
+        <a href="https://www.dynamiclayer.io/docs/chip">
             <img alt="Dynamic Layer Chip" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3eae68f9c41682bef1_read-me-chip.jpg">
         </a>
     </td>
@@ -155,17 +155,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/segmented-control">
+        <a href="https://www.dynamiclayer.io/docs/segmented-control">
             <img alt="Dynamic Layer Segmented Control" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d513cd1ca54a09667a6_read-me-segmented-control.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/tab-control">
+        <a href="https://www.dynamiclayer.io/docs/tab-control">
             <img alt="Dynamic Layer Tab Control" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d527d182a2cf6b786fa_read-me-tab-control.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/coach-mark">
+        <a href="https://www.dynamiclayer.io/docs/coach-mark">
             <img alt="Dynamic Layer Coach Mark" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3f39d97f1855ea1141_read-me-coach-mark.jpg">
         </a>
     </td>
@@ -177,17 +177,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/tooltip">
+        <a href="https://www.dynamiclayer.io/docs/tooltip">
             <img alt="Dynamic Layer Tooltip" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d52921940561ac270bf_read-me-tooltip.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/card">
+        <a href="https://www.dynamiclayer.io/docs/card">
             <img alt="Dynamic Layer Card" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d3e097ad83df1e26ea0_read-me-card.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/toggle">
+        <a href="https://www.dynamiclayer.io/docs/toggle">
             <img alt="Dynamic Layer Toggle" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e3d52f380a605251103a3_read-me-toggle.jpg">
         </a>
     </td>
@@ -206,17 +206,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/layout">
+        <a href="https://www.dynamiclayer.io/docs/layout">
             <img alt="Dynamic Layer Layout" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e484e077ecf514d120343_read-me-layout.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/typography">
+        <a href="https://www.dynamiclayer.io/docs/typography">
             <img alt="Dynamic Layer Typography" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e484f3a6b7f3407588889_read-me-typo.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/Illustration">
+        <a href="https://www.dynamiclayer.io/docs/Illustration">
             <img alt="Dynamic Layer Top Navigation" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e48502d09baaa67d24385_read-me-illu.jpg">
         </a>
     </td>
@@ -228,17 +228,17 @@ Dynamic Layer is an collection of UI components built with Figma and SwiftUI tha
   </tr>
   <tr>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/color">
+        <a href="https://www.dynamiclayer.io/docs/color">
             <img alt="Dynamic Layer Color" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e484e5534310ec713d5ed_read-me-color.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/shadow">
+        <a href="https://www.dynamiclayer.io/docs/shadow">
             <img alt="Dynamic Layer Shadow" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e484fa92e5c7b0b647fe7_read-me-shadow.jpg">
         </a>
     </td>
     <td width="33.3333%">
-        <a href="https://www.dynamiclayers.de/components/Iconset">
+        <a href="https://www.dynamiclayer.io/docs/Iconset">
             <img alt="Dynamic Layer Iconset" src="https://uploads-ssl.webflow.com/625ad6a79b212f513b883f58/656e484ebe8d2a6c35d1eb0a_read-me-icon.jpg">
         </a>
     </td>
@@ -261,11 +261,11 @@ Start using over 200+ free and open-source collection of solid and outline SVG i
 
 Get access to all premium features including the complete Figma design system and access to all 20+ Swift components:
 
-💎 [Check out Dynamic Layer Premium](https://dynamiclayers.de)
+💎 [Check out Dynamic Layer Premium](https://dynamiclayer.io)
 
 ## Copyright and license
 
 The Dynamic Layer name and logo are trademarks of Dynamic Layer Inc.
 
-- 📝 [Read about the licensing terms](https://dynamiclayers.de/docs/getting-started/license/)
-- 📀 [Brand guideline and trademark usage agreement](https://dynamiclayers.de/brand/)
+- 📝 [Read about the licensing terms](https://www.dynamiclayer.io/license)
+- 📀 [Brand guideline and trademark usage agreement](https://dynamiclayer.io/brand/)
