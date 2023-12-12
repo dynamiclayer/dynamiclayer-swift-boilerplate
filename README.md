@@ -10,7 +10,7 @@
 
 With Dynamic Layer you get a Figma, Swift, Compose and React native file for your work. It optimizes collaboration between designers and developers. Designers use pre-built components for their designs in Figma and developers use the same components through copy and paste in their code. This makes the entire process of creating an app from start to finish 10x faster.
 
-Find out more at: [dynamiclayers.de](https://dynamiclayer.io/)
+Find out more at: [dynamiclayer.io](https://dynamiclayer.io/)
 
 
 
