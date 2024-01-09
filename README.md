@@ -265,7 +265,6 @@ Get access to all premium features including the complete Figma design system an
 
 ## Copyright and license
 
-The Dynamic Layer name and logo are trademarks of Dynamic Layer Inc.
+The Dynamic Layer name and logo are trademarks of Dynamic Layer
 
 - 📝 [Read about the licensing terms](https://www.dynamiclayer.io/license)
-- 📀 [Brand guideline and trademark usage agreement](https://dynamiclayer.io/brand/)
